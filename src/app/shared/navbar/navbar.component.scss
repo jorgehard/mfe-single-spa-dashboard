@@ -1,0 +1,21 @@
+.navbar-toolbar{
+  background: none;
+  padding:2rem;
+  display: flex;
+  justify-content: space-between;
+  margin-top:1rem;
+}
+.teste{
+  background:#5498FF;
+  color:#fff;
+  height:50px;
+  padding:0rem 3rem;
+  border-radius: 8px;
+  font-family: 'Poppins', sans-serif;
+  font-size:1rem;
+  display: flex;
+  align-items: center;
+  .mat-icon{
+    margin-bottom: 3px;
+  }
+}
